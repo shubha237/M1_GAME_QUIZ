@@ -22,6 +22,17 @@ DEFINING OUR SYSTEM
 
 SWOT ANALYSIS
 
+Strenghts
+
+1. Gaining knowledge
+2. User can view and reset the score
+3. User can get instructions before the start of the game
+
+
+Weakness
+
+1.User interface can be enhanced  to make the game even more flexible to play.
+
 4W'S AND 1'H
 
 WHO: The Knowledge of the user is tested with the Multiple choice questions.
