@@ -1,0 +1,26 @@
+#ifndef HEADER_H
+#define HEADER_H
+#include <stdio.h>
+#include "SDL/sdl.h"
+#include "sdl/sdl_image.h"
+//#include <windows.h>
+
+
+#define speed 10
+#define no 1
+#define yes 0
+
+
+
+
+
+
+
+void show_record(); // to get the record of the players
+void reset_score(); //This will reset the score for the game
+void help(); // This is for the users to get instructions
+void edit_score(float,char[]); // to edit the score in a game
+
+
+
+#endif // HEADER_H_INCLUDED
